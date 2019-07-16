@@ -11,3 +11,5 @@ This consists of Android templates which includes:
 If you find any bugs in the code, you can contact me. 
 
 Use Git Issues tab for those.
+
+*Happy Coding*
